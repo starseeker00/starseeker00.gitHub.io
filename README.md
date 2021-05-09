@@ -1,1 +1,1 @@
-# starseeker00.gitHub.io
+# My First Web-page studied by MDN
